@@ -1,0 +1,17 @@
+{
+    "scripts_directory": "D:/IZ_DA_Working/Python/MSSQL_MYSQL_data_script/MSSQL_MYSQL_Sync",
+    "working_directory": "D:/IZ_DA_Working/Python",
+    "python_executable": "python",
+    "interval_minutes": 5,
+    "script_timeout_minutes": 60,
+    "include_patterns": [
+        "*_sync_*.py",
+        "*_transfer_*.py",
+        "*_update_*.py"
+    ],
+    "exclude_files": [
+        "main.py",
+        "sync_manager.py"
+    ],
+    "auto_start": false
+}

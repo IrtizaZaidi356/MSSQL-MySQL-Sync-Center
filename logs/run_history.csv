@@ -1,0 +1,143 @@
+﻿started_at,script,status,new_records,count_source,duration_seconds,return_code,message
+2026-10-10 12:37:23,sync_tblArticleFile.py,FAILED,,unknown,0.49,1,Exit code 1 — D:\IZ_DA_Working\Python\MSSQL_MYSQL_data_script\config\.env
+2026-10-10 12:37:23,sync_tblCategory.py,FAILED,,unknown,0.43,1,Exit code 1 — D:\IZ_DA_Working\Python\MSSQL_MYSQL_data_script\config\.env
+2026-10-10 12:37:40,sync_tblArticleFile.py,FAILED,,unknown,0.42,1,Exit code 1 — D:\IZ_DA_Working\Python\MSSQL_MYSQL_data_script\config\.env
+2026-10-10 12:37:40,sync_tblCategory.py,FAILED,,unknown,0.41,1,Exit code 1 — D:\IZ_DA_Working\Python\MSSQL_MYSQL_data_script\config\.env
+2026-10-10 12:41:32,sync_tblArticleFile.py,NO NEW RECORDS,0,found,6.31,0,No new records found
+2026-10-10 12:41:38,sync_tblCategory.py,NO NEW RECORDS,0,found,6.86,0,No new records found
+2026-10-10 12:47:42,sync_vwPOBalanceLC.py,FAILED,,unknown,0.42,1,Exit code 1 — D:\IZ_DA_Working\Python\MSSQL_MYSQL_data_script\config\.env
+2026-10-10 12:48:24,sync_vwPOBalanceLC.py,NO NEW RECORDS,0,found,4.47,0,No new records found
+2026-10-12 11:37:36,newrecord_sync_tblCoBrand.py,SUCCESS,1,inserted,4.25,0,Inserted 1 new record(s)
+2026-10-12 11:39:28,newrecord_sync_tblColor.py,NO NEW RECORDS,0,found,4.57,0,No new records found
+2026-10-12 11:39:49,newrecord_sync_tblCoBrand.py,NO NEW RECORDS,0,found,4.2,0,No new records found
+2026-10-12 11:39:53,newrecord_sync_tblColor.py,NO NEW RECORDS,0,found,4.48,0,No new records found
+2026-10-12 11:39:57,newrecord_sync_tblConversionDtl.py,SUCCESS,7,inserted,7.74,0,Inserted 7 new record(s)
+2026-10-12 11:40:05,newrecord_sync_tblConversionMst.py,SUCCESS,7,inserted,7.02,0,Inserted 7 new record(s)
+2026-10-12 11:40:12,newrecord_sync_tblDesignMaster.py,SUCCESS,23,found,5.62,0,Found 23 new record(s); insert count was not separately reported
+2026-10-12 11:40:18,newrecord_sync_tblGRNFabricDtl.py,SUCCESS,8,inserted,6.48,0,Inserted 8 new record(s)
+2026-10-12 11:40:24,newrecord_sync_tblGRNFabricMst.py,SUCCESS,7,inserted,5.94,0,Inserted 7 new record(s)
+2026-10-12 11:40:30,newrecord_sync_tblGRNProductDtl.py,SUCCESS,12,inserted,6.45,0,Inserted 12 new record(s)
+2026-10-12 11:40:37,newrecord_sync_tblGRNProductMst.py,SUCCESS,9,inserted,5.84,0,Inserted 9 new record(s)
+2026-10-12 11:40:42,newrecord_sync_tblIFCDtl.py,SUCCESS,14,inserted,6.25,0,Inserted 14 new record(s)
+2026-10-12 11:40:49,newrecord_sync_tblIFCMst.py,SUCCESS,14,inserted,6.25,0,Inserted 14 new record(s)
+2026-10-12 11:40:55,newrecord_sync_tblMasterDesign.py,NO NEW RECORDS,0,found,4.41,0,No new records found
+2026-10-12 11:40:59,newrecord_sync_tblProductionCardDtl.py,SUCCESS,7,inserted,7.04,0,Inserted 7 new record(s)
+2026-10-12 11:41:06,newrecord_sync_tblProductionCardMst.py,SUCCESS,7,inserted,6.97,0,Inserted 7 new record(s)
+2026-10-12 11:41:13,newrecord_sync_tblReceiveFinishDtl2.py,SUCCESS,8,inserted,9.61,0,Inserted 8 new record(s)
+2026-10-12 11:41:23,newrecord_sync_tblReceiveFinishMst2.py,SUCCESS,3,inserted,8.63,0,Inserted 3 new record(s)
+2026-10-12 11:41:32,newrecord_sync_tblRFCDtl.py,NO NEW RECORDS,0,found,5.72,0,No new records found
+2026-10-12 11:41:37,newrecord_sync_tblRFCMst.py,NO NEW RECORDS,0,found,6.39,0,No new records found
+2026-10-12 11:41:44,newrecord_sync_tblSupplier.py,SUCCESS,1,inserted,5.28,0,Inserted 1 new record(s)
+2026-10-12 11:41:49,newrecord_sync_vwPurOrdBalanceFabric.py,NO NEW RECORDS,0,found,7.87,0,No new records found
+2026-10-12 11:41:57,newrecord_sync_vwPurOrdBalanceProduct.py,SUCCESS,18,inserted,6.45,0,Inserted 18 new record(s)
+2026-10-12 11:42:03,newrecord_sync_vwPurOrderDesignPrint.py,NO NEW RECORDS,0,found,5.03,0,No new records found
+2026-10-12 11:57:08,newrecord_sync_tblCoBrand.py,NO NEW RECORDS,0,found,9.21,0,No new records found
+2026-10-12 11:57:18,newrecord_sync_tblColor.py,NO NEW RECORDS,0,found,7.23,0,No new records found
+2026-10-12 11:57:25,newrecord_sync_tblConversionDtl.py,NO NEW RECORDS,0,found,15.45,0,No new records found
+2026-10-12 11:57:40,newrecord_sync_tblConversionMst.py,NO NEW RECORDS,0,found,7.13,0,No new records found
+2026-10-12 11:57:47,newrecord_sync_tblDesignMaster.py,SUCCESS,23,found,8.07,0,Found 23 new record(s); insert count was not separately reported
+2026-10-12 11:57:56,newrecord_sync_tblGRNFabricDtl.py,NO NEW RECORDS,0,found,8.03,0,No new records found
+2026-10-12 11:58:04,newrecord_sync_tblGRNFabricMst.py,NO NEW RECORDS,0,found,4.54,0,No new records found
+2026-10-12 11:58:08,newrecord_sync_tblGRNProductDtl.py,SUCCESS,1,inserted,9.59,0,Inserted 1 new record(s)
+2026-10-12 11:58:18,newrecord_sync_tblGRNProductMst.py,SUCCESS,1,inserted,8.33,0,Inserted 1 new record(s)
+2026-10-12 11:58:26,newrecord_sync_tblIFCDtl.py,NO NEW RECORDS,0,found,7.18,0,No new records found
+2026-10-12 11:58:33,newrecord_sync_tblIFCMst.py,NO NEW RECORDS,0,found,5.24,0,No new records found
+2026-10-12 11:58:38,newrecord_sync_tblMasterDesign.py,NO NEW RECORDS,0,found,7.64,0,No new records found
+2026-10-12 11:58:46,newrecord_sync_tblProductionCardDtl.py,NO NEW RECORDS,0,found,9.04,0,No new records found
+2026-10-12 11:58:55,newrecord_sync_tblProductionCardMst.py,NO NEW RECORDS,0,found,10.06,0,No new records found
+2026-10-12 11:59:05,newrecord_sync_tblReceiveFinishDtl2.py,SUCCESS,4,inserted,15.72,0,Inserted 4 new record(s)
+2026-10-12 11:59:21,newrecord_sync_tblReceiveFinishMst2.py,SUCCESS,4,inserted,11.69,0,Inserted 4 new record(s)
+2026-10-12 11:59:33,newrecord_sync_tblRFCDtl.py,NO NEW RECORDS,0,found,9.86,0,No new records found
+2026-10-12 11:59:42,newrecord_sync_tblRFCMst.py,NO NEW RECORDS,0,found,5.17,0,No new records found
+2026-10-12 11:59:48,newrecord_sync_tblSupplier.py,NO NEW RECORDS,0,found,4.66,0,No new records found
+2026-10-12 11:59:52,newrecord_sync_vwPurOrdBalanceFabric.py,NO NEW RECORDS,0,found,8.1,0,No new records found
+2026-10-12 12:00:00,newrecord_sync_vwPurOrdBalanceProduct.py,NO NEW RECORDS,0,found,6.19,0,No new records found
+2026-10-12 12:00:07,newrecord_sync_vwPurOrderDesignPrint.py,NO NEW RECORDS,0,found,3.94,0,No new records found
+2026-10-12 14:42:51,newrecord_sync_tblCoBrand.py,NO NEW RECORDS,0,found,5.15,0,No new records found
+2026-10-12 14:42:56,newrecord_sync_tblColor.py,NO NEW RECORDS,0,found,4.13,0,No new records found
+2026-10-12 14:43:00,newrecord_sync_tblConversionDtl.py,SUCCESS,5,inserted,7.33,0,Inserted 5 new record(s)
+2026-10-12 14:43:08,newrecord_sync_tblConversionMst.py,SUCCESS,5,inserted,6.64,0,Inserted 5 new record(s)
+2026-10-12 14:43:14,newrecord_sync_tblDesignMaster.py,SUCCESS,23,found,5.94,0,Found 23 new record(s); insert count was not separately reported
+2026-10-12 14:43:20,newrecord_sync_tblGRNFabricDtl.py,SUCCESS,2,inserted,6.07,0,Inserted 2 new record(s)
+2026-10-12 14:43:26,newrecord_sync_tblGRNFabricMst.py,SUCCESS,1,inserted,5.81,0,Inserted 1 new record(s)
+2026-10-12 14:43:32,newrecord_sync_tblGRNProductDtl.py,NO NEW RECORDS,0,found,4.2,0,No new records found
+2026-10-12 14:43:36,newrecord_sync_tblGRNProductMst.py,NO NEW RECORDS,0,found,4.47,0,No new records found
+2026-10-12 14:43:41,newrecord_sync_tblIFCDtl.py,NO NEW RECORDS,0,found,4.77,0,No new records found
+2026-10-12 14:43:46,newrecord_sync_tblIFCMst.py,NO NEW RECORDS,0,found,6.58,0,No new records found
+2026-10-12 14:43:52,newrecord_sync_tblMasterDesign.py,NO NEW RECORDS,0,found,4.06,0,No new records found
+2026-10-12 14:43:56,newrecord_sync_tblProductionCardDtl.py,SUCCESS,3,inserted,7.46,0,Inserted 3 new record(s)
+2026-10-12 14:44:04,newrecord_sync_tblProductionCardMst.py,SUCCESS,3,inserted,6.56,0,Inserted 3 new record(s)
+2026-10-12 14:44:10,newrecord_sync_tblReceiveFinishDtl2.py,SUCCESS,10,inserted,8.89,0,Inserted 10 new record(s)
+2026-10-12 14:44:19,newrecord_sync_tblReceiveFinishMst2.py,SUCCESS,4,inserted,7.28,0,Inserted 4 new record(s)
+2026-10-12 14:44:27,newrecord_sync_tblRFCDtl.py,NO NEW RECORDS,0,found,4.93,0,No new records found
+2026-10-12 14:44:31,newrecord_sync_tblRFCMst.py,NO NEW RECORDS,0,found,5.24,0,No new records found
+2026-10-12 14:44:37,newrecord_sync_tblSupplier.py,NO NEW RECORDS,0,found,4.09,0,No new records found
+2026-10-12 14:44:41,newrecord_sync_vwPurOrdBalanceFabric.py,NO NEW RECORDS,0,found,7.65,0,No new records found
+2026-10-12 14:44:48,newrecord_sync_vwPurOrdBalanceProduct.py,NO NEW RECORDS,0,found,5.03,0,No new records found
+2026-10-12 14:44:53,newrecord_sync_vwPurOrderDesignPrint.py,NO NEW RECORDS,0,found,3.96,0,No new records found
+2026-10-12 20:31:20,newrecord_sync_tblCoBrand.py,NO NEW RECORDS,0,found,4.8,0,No new records found
+2026-10-12 20:31:25,newrecord_sync_tblColor.py,NO NEW RECORDS,0,found,4.06,0,No new records found
+2026-10-12 20:31:29,newrecord_sync_tblConversionDtl.py,SUCCESS,1,inserted,7.43,0,Inserted 1 new record(s)
+2026-10-12 20:31:36,newrecord_sync_tblConversionMst.py,SUCCESS,1,inserted,7.67,0,Inserted 1 new record(s)
+2026-10-12 20:31:44,newrecord_sync_tblDesignMaster.py,SUCCESS,23,found,5.96,0,Found 23 new record(s); insert count was not separately reported
+2026-10-12 20:31:50,newrecord_sync_tblGRNFabricDtl.py,SUCCESS,4,inserted,6.02,0,Inserted 4 new record(s)
+2026-10-12 20:31:56,newrecord_sync_tblGRNFabricMst.py,SUCCESS,4,inserted,5.74,0,Inserted 4 new record(s)
+2026-10-12 20:32:01,newrecord_sync_tblGRNProductDtl.py,NO NEW RECORDS,0,found,4.4,0,No new records found
+2026-10-12 20:32:06,newrecord_sync_tblGRNProductMst.py,NO NEW RECORDS,0,found,4.72,0,No new records found
+2026-10-12 20:32:11,newrecord_sync_tblIFCDtl.py,SUCCESS,5,inserted,5.75,0,Inserted 5 new record(s)
+2026-10-12 20:32:16,newrecord_sync_tblIFCMst.py,SUCCESS,4,inserted,6.34,0,Inserted 4 new record(s)
+2026-10-12 20:32:23,newrecord_sync_tblMasterDesign.py,NO NEW RECORDS,0,found,3.99,0,No new records found
+2026-10-12 20:32:27,newrecord_sync_tblProductionCardDtl.py,SUCCESS,3,inserted,6.85,0,Inserted 3 new record(s)
+2026-10-12 20:32:34,newrecord_sync_tblProductionCardMst.py,SUCCESS,3,inserted,7.49,0,Inserted 3 new record(s)
+2026-10-12 20:32:41,newrecord_sync_tblReceiveFinishDtl2.py,NO NEW RECORDS,0,inserted,6.99,0,No new records inserted
+2026-10-12 20:32:48,newrecord_sync_tblReceiveFinishMst2.py,NO NEW RECORDS,0,found,5.6,0,No new records found
+2026-10-12 20:32:54,newrecord_sync_tblRFCDtl.py,NO NEW RECORDS,0,found,4.84,0,No new records found
+2026-10-12 20:32:58,newrecord_sync_tblRFCMst.py,NO NEW RECORDS,0,found,4.83,0,No new records found
+2026-10-12 20:33:03,newrecord_sync_tblSupplier.py,NO NEW RECORDS,0,found,3.78,0,No new records found
+2026-10-12 20:33:07,newrecord_sync_vwPurOrdBalanceFabric.py,SUCCESS,3,inserted,8.34,0,Inserted 3 new record(s)
+2026-10-12 20:33:15,newrecord_sync_vwPurOrdBalanceProduct.py,NO NEW RECORDS,0,found,5.26,0,No new records found
+2026-10-12 20:33:21,newrecord_sync_vwPurOrderDesignPrint.py,NO NEW RECORDS,0,found,4.1,0,No new records found
+2026-10-13 11:05:40,newrecord_sync_tblCoBrand.py,NO NEW RECORDS,0,found,3.45,0,No new records found
+2026-10-13 11:05:43,newrecord_sync_tblColor.py,NO NEW RECORDS,0,found,3.23,0,No new records found
+2026-10-13 11:05:46,newrecord_sync_tblConversionDtl.py,NO NEW RECORDS,0,found,5.3,0,No new records found
+2026-10-13 11:05:52,newrecord_sync_tblConversionMst.py,NO NEW RECORDS,0,found,4.69,0,No new records found
+2026-10-13 11:05:56,newrecord_sync_tblDesignMaster.py,SUCCESS,23,found,7.3,0,Found 23 new record(s); insert count was not separately reported
+2026-10-13 11:06:04,newrecord_sync_tblGRNFabricDtl.py,NO NEW RECORDS,0,found,3.87,0,No new records found
+2026-10-13 11:06:07,newrecord_sync_tblGRNFabricMst.py,NO NEW RECORDS,0,found,3.67,0,No new records found
+2026-10-13 11:06:11,newrecord_sync_tblGRNProductDtl.py,NO NEW RECORDS,0,found,3.5,0,No new records found
+2026-10-13 11:06:15,newrecord_sync_tblGRNProductMst.py,NO NEW RECORDS,0,found,3.69,0,No new records found
+2026-10-13 11:06:18,newrecord_sync_tblIFCDtl.py,NO NEW RECORDS,0,found,3.9,0,No new records found
+2026-10-13 11:06:22,newrecord_sync_tblIFCMst.py,NO NEW RECORDS,0,found,3.98,0,No new records found
+2026-10-13 11:06:26,newrecord_sync_tblMasterDesign.py,NO NEW RECORDS,0,found,3.34,0,No new records found
+2026-10-13 11:06:30,newrecord_sync_tblProductionCardDtl.py,NO NEW RECORDS,0,found,4.7,0,No new records found
+2026-10-13 11:06:34,newrecord_sync_tblProductionCardMst.py,NO NEW RECORDS,0,found,5.94,0,No new records found
+2026-10-13 11:06:40,newrecord_sync_tblReceiveFinishDtl2.py,NO NEW RECORDS,0,inserted,6.33,0,No new records inserted
+2026-10-13 11:06:47,newrecord_sync_tblReceiveFinishMst2.py,NO NEW RECORDS,0,found,4.92,0,No new records found
+2026-10-13 11:06:51,newrecord_sync_tblRFCDtl.py,NO NEW RECORDS,0,found,9.16,0,No new records found
+2026-10-13 11:07:01,newrecord_sync_tblRFCMst.py,NO NEW RECORDS,0,found,6.37,0,No new records found
+2026-10-13 11:07:07,newrecord_sync_tblSupplier.py,NO NEW RECORDS,0,found,5.26,0,No new records found
+2026-10-13 11:07:12,newrecord_sync_vwPurOrdBalanceFabric.py,NO NEW RECORDS,0,found,31.23,0,No new records found
+2026-10-13 11:07:43,newrecord_sync_vwPurOrdBalanceProduct.py,NO NEW RECORDS,0,found,4.37,0,No new records found
+2026-10-13 11:07:48,newrecord_sync_vwPurOrderDesignPrint.py,NO NEW RECORDS,0,found,3.28,0,No new records found
+2026-10-13 11:13:14,newrecord_sync_tblCoBrand.py,NO NEW RECORDS,0,found,3.49,0,No new records found
+2026-10-13 11:13:18,newrecord_sync_tblColor.py,NO NEW RECORDS,0,found,3.24,0,No new records found
+2026-10-13 11:13:21,newrecord_sync_tblConversionDtl.py,NO NEW RECORDS,0,found,5.33,0,No new records found
+2026-10-13 11:13:26,newrecord_sync_tblConversionMst.py,NO NEW RECORDS,0,found,4.53,0,No new records found
+2026-10-13 11:13:31,newrecord_sync_tblDesignMaster.py,SUCCESS,23,found,4.94,0,Found 23 new record(s); insert count was not separately reported
+2026-10-13 11:13:36,newrecord_sync_tblGRNFabricDtl.py,NO NEW RECORDS,0,found,3.92,0,No new records found
+2026-10-13 11:13:40,newrecord_sync_tblGRNFabricMst.py,NO NEW RECORDS,0,found,3.68,0,No new records found
+2026-10-13 11:13:43,newrecord_sync_tblGRNProductDtl.py,NO NEW RECORDS,0,found,3.69,0,No new records found
+2026-10-13 11:13:47,newrecord_sync_tblGRNProductMst.py,NO NEW RECORDS,0,found,3.47,0,No new records found
+2026-10-13 11:13:51,newrecord_sync_tblIFCDtl.py,NO NEW RECORDS,0,found,3.86,0,No new records found
+2026-10-13 11:13:54,newrecord_sync_tblIFCMst.py,NO NEW RECORDS,0,found,4.23,0,No new records found
+2026-10-13 11:13:59,newrecord_sync_tblMasterDesign.py,NO NEW RECORDS,0,found,3.14,0,No new records found
+2026-10-13 11:14:02,newrecord_sync_tblProductionCardDtl.py,NO NEW RECORDS,0,found,4.5,0,No new records found
+2026-10-13 11:14:06,newrecord_sync_tblProductionCardMst.py,NO NEW RECORDS,0,found,4.61,0,No new records found
+2026-10-13 11:14:11,newrecord_sync_tblReceiveFinishDtl2.py,NO NEW RECORDS,0,inserted,6.3,0,No new records inserted
+2026-10-13 11:14:17,newrecord_sync_tblReceiveFinishMst2.py,NO NEW RECORDS,0,found,5.06,0,No new records found
+2026-10-13 11:14:22,newrecord_sync_tblRFCDtl.py,NO NEW RECORDS,0,found,4.43,0,No new records found
+2026-10-13 11:14:27,newrecord_sync_tblRFCMst.py,NO NEW RECORDS,0,found,3.98,0,No new records found
+2026-10-13 11:14:31,newrecord_sync_tblSupplier.py,NO NEW RECORDS,0,found,3.36,0,No new records found
+2026-10-13 11:14:34,newrecord_sync_vwPurOrdBalanceFabric.py,NO NEW RECORDS,0,found,6.14,0,No new records found
+2026-10-13 11:14:40,newrecord_sync_vwPurOrdBalanceProduct.py,NO NEW RECORDS,0,found,4.5,0,No new records found
+2026-10-13 11:14:45,newrecord_sync_vwPurOrderDesignPrint.py,NO NEW RECORDS,0,found,3.36,0,No new records found

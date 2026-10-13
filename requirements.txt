@@ -1,0 +1,5 @@
+# The desktop manager uses the Python standard library.
+# These packages are required by the existing SQL Server -> MySQL sync scripts.
+pyodbc>=5.0.0
+mysql-connector-python>=8.3.0
+python-dotenv>=1.0.0
