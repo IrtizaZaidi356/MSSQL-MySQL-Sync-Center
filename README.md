@@ -136,3 +136,11 @@ The script did not print a recognized new-record count. Add a truthful final sta
 
 ### Script fails
 Open the output panel and `logs/sync_manager.log`, then run that script individually. The manager reports the subprocess exit code and its last output line, but the actual database/data-type error must be fixed in the script or target schema.
+
+
+
+
+https://github.com/user-attachments/assets/3c764a26-b179-43c9-a1f1-1d7875048f7e
+
+
+
